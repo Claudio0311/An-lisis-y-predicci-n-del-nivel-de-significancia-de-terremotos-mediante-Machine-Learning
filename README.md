@@ -18,3 +18,8 @@ El modelo fue entrenado y evaluado utilizando el Earthquake Dataset de Kaggle, u
 -Algoritmos Supervisados 
 
 -Algoritmos No Supervisados 
+
+## 🔗Enlaces:
+-Video:
+
+-Dataset:https://www.kaggle.com/datasets/warcoder/earthquake-dataset
