@@ -1,3 +1,5 @@
+![Banner del Proyecto](Banner_Machine_Learning.png)
+
 # 🧠Predicción del nivel de significancia de terremotos
 ## 👨‍💻Autores
 -Alex Santiago Salamanca Toloza
