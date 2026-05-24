@@ -1,1 +1,1 @@
-# Análisis-y-predicción-del-nivel-de-significancia-de-terremotos-mediante-Machine-Learning
+# Análisis y predicción del nivel de significancia de terremotos mediante Machine Learning
