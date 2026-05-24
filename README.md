@@ -1,5 +1,5 @@
 # 🧠Predicción del nivel de significancia de terremotos
-# 👨‍💻Autores
+### 👨‍💻Autores
 Alex Santiago Salamanca Toloza
 
 Camilo Andrés Velandia Mendoza
