@@ -1,4 +1,4 @@
-![Banner del Proyecto](Banner_Machine_Learning.png)
+![Banner del Proyecto](Banner_Machine_Learnin_terremotos.png)
 
 # 🧠Predicción del nivel de significancia de terremotos
 ## 👨‍💻Autores
