@@ -22,6 +22,6 @@ El modelo fue entrenado y evaluado utilizando el Earthquake Dataset de Kaggle, u
 -Algoritmos No Supervisados 
 
 ## 🔗Enlaces:
--Video:
+-Video:https://youtu.be/qgcZ-uh_m5A?si=vgEBqUYPoz6Goli0
 
 -Dataset:https://www.kaggle.com/datasets/warcoder/earthquake-dataset
